@@ -1,0 +1,23 @@
+Каква е командата за да монтирате windows файлова система така, че всичките и файлове да са собственост на един потребител?
+
+1. В Windows share-вам папка ShareDir. Windows машината е с адрес 192.168.1.115
+ 
+2. Създаваме група winUser:
+[root@localhost ~]# groupadd winUser
+ 
+3. Създаваме потребител user, който е участващ в група winUser:
+[root@localhost ~]# useradd -G winUser  user
+[root@localhost mnt]# su user
+[user@localhost mnt]$ id
+uid=500(user) gid=501(user) groups=501(user),500(winUser) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+ 
+4. Създаваме папка, в която ще монтираме windows папката:
+[root@localhost ~]# mkdir /mnt/winDir
+ 
+5. Монтираме със съответните параметри:
+[root@localhost mnt]#  mount -t cifs //192.168.1.115/ShareDir /mnt/winDir/ -o username=User1,password=1234,domain=domainname,uid=501,gid=500,file_mode=0777,dir_mode=0777
+[root@localhost mnt]# ll
+total 8
+drwxrwxrwx. 1 501 winUser 8192 Jun 21 11:21 winDir
+[root@localhost mnt]# cd winDir/
+[root@localhost winDir]# ll

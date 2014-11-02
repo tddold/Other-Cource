@@ -1,0 +1,103 @@
+Тема:  6. Write down the commands needed to create SW RAID10 with 4 SATA drives. How will you add one more drive as hot-spare?
+
+Четирите устройства, с които ще създадем масива са: sdb, sdc, sdd и sde.
+
+Препоръчително е те да бъдат еднакво форматирани (разцепени на еднакви по големина дялове, с еднакъв FS-TYPE) преди да бъде създаден масива. По принцип е възможно той да бъде създаден директно върху дисковете (без те да са разцепени на дялове), но не се препоръчва, тъй като може да създаде проблеми при подмяна на някое от устройствата. FS-TYPE на устройствата(дяловете) трябва да бъде Non-FS или Linux RAID auto (FD). За да мине всичко гладко предварително сме взели root права.
+
+1. Инсталиране на mdadm.
+
+yum install mdadm
+
+2. Създаване на масива.
+
+mdadm --create --verbose --level=10 --metadata=1.2 --chunk=256 --raid-devices=4 /dev/md0 /dev/sdb1 /dev/sdc1 /dev/sdd1 /dev/sde1
+
+Резултат:
+
+mdadm: layout defaults to n2
+
+mdadm: size set to 1047808K
+
+mdadm: array /dev/md0 started.
+
+Забележка: Опциите --metadata и --chunk не са задължителни, но в противен случай може да се появят warning-и. --verbose също не е задължителна опция, тя само дава повече инфо за случващото се, при изпълнение на командата.
+
+3. Проверка.
+
+cat /proc/mdstat
+
+Резултат (масивът се билдва):
+
+Personalities : [raid1] [raid0] [raid10]
+
+md0 : active raid10 sde1[3] sdd1[2] sdc1[1] sdb1[0]
+
+      2095616 blocks super 1.2 256K chunks 2 near-copies [4/4] [UUUU]
+
+      [=========>...........]  resync = 45.7% (958464/2095616) finish=0.1min speed=136923K/sec
+
+Резултат (масивът е билднат или по-точно синхронизиран):
+
+Personalities : [raid1] [raid0] [raid10]  
+
+md0 : active raid10 sde1[3] sdd1[2] sdc1[1] sdb1[0]
+
+      2095616 blocks super 1.2 256K chunks 2 near-copies [4/4] [UUUU]
+
+unused devices: <none>
+
+4. Добавяне на ново устройство като hot-spare.
+
+4.1 За целта имаме устройство /dev/sdf. За да можем да добавим устройството, то трябва да е форматирано както вече съществуващите такива в масива.
+
+Копираме партишън таблицата от съществуващо, изправно устройство в масива.
+
+sfdisk -d /dev/sdb > table
+
+4.2 Форматираме новото устройство с нея:
+
+sfdisk /dev/sdf < table
+
+# partition table of /dev/sdf
+
+Резултат:
+
+unit: sectors
+
+/dev/sdf1 : start=       63, size=  2097089, Id=fd
+
+/dev/sdf2 : start=        0, size=        0, Id= 0
+
+/dev/sdf3 : start=        0, size=        0, Id= 0
+
+/dev/sdf4 : start=        0, size=        0, Id= 0
+
+4.3 Добавяме устройството в масива (няма нужда да спираме масива):
+
+mdadm --add /dev/md0 /dev/sdf1
+
+4.4 Проверка:
+
+cat /proc/mdstat
+
+Резултат (Добавеното като резервно устройство е отбелязано с (S):
+
+Personalities : [raid1] [raid0] [raid10]    
+
+md0 : active raid10 sdf1[4](S) sde1[3] sdd1[2] sdc1[1] sdb1[0]
+
+      2095616 blocks super 1.2 256K chunks 2 near-copies [4/4] [UUUU]
+
+unused devices: <none>
+
+5. Литература.
+
+5.1 https://wiki.archlinux.org/index.php/RAID - Kак се създава подготвят устройства за създаване на масив, как се създават, спират и премахват масиви, как се добавят устройства към тях и др.
+
+5.2 man mdadm - ръководствата са достъпни и онлайн на http://linux.die.net/
+
+5.3 http://doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/raidmdadm.html - Създаване на SW RAID, Nested RAID.
+
+5.4 http://zackreed.me/articles/48-adding-an-extra-disk-to-an-mdadm-array - Добавяне на устройства към масив, преоразмеряване на масива.
+
+5.5 http://www.howtoforge.com/how-to-set-up-software-raid1-on-a-running-system-incl-grub2-configuration-debian-squeeze - Създаване на RAID на работеща система. Малко повече информация при инсталиране на mdadm.
