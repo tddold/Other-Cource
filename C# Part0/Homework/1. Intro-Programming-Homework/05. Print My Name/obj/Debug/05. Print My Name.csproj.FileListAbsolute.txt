@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\05. Print My Name\bin\Debug\_05.Print_My_Name.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\05. Print My Name\bin\Debug\_05.Print_My_Name.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\05. Print My Name\bin\Debug\_05.Print_My_Name.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\05. Print My Name\obj\Debug\_05.Print_My_Name.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\05. Print My Name\obj\Debug\_05.Print_My_Name.pdb

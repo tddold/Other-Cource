@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\06. Print Numbers\bin\Debug\_06.Print_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\06. Print Numbers\obj\Debug\_06.Print_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\06. Print Numbers\obj\Debug\_06.Print_Numbers.pdb

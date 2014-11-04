@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\bin\Debug\_13.CSharp_and.NET_Differences.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\bin\Debug\_13.CSharp_and.NET_Differences.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\bin\Debug\_13.CSharp_and.NET_Differences.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\obj\Debug\13. CSharp and .NET Differences.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\obj\Debug\_13.CSharp_and.NET_Differences.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\13. CSharp and .NET Differences\obj\Debug\_13.CSharp_and.NET_Differences.pdb

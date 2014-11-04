@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\bin\Debug\10.Reformat CSharp Code.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\bin\Debug\10.Reformat CSharp Code.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\bin\Debug\10.Reformat CSharp Code.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\obj\Debug\10.Reformat CSharp Code.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\obj\Debug\10.Reformat CSharp Code.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\10.Reformat CSharp Code\obj\Debug\10.Reformat CSharp Code.pdb

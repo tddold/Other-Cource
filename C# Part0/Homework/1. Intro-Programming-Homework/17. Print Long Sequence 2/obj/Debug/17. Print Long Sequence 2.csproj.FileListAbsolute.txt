@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\17. Print Long Sequence 2\bin\Debug\_17.Print_Long_Sequence_2.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\17. Print Long Sequence 2\bin\Debug\_17.Print_Long_Sequence_2.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\17. Print Long Sequence 2\bin\Debug\_17.Print_Long_Sequence_2.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\17. Print Long Sequence 2\obj\Debug\_17.Print_Long_Sequence_2.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\17. Print Long Sequence 2\obj\Debug\_17.Print_Long_Sequence_2.pdb

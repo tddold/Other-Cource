@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\1. Intro-Programming-Homework\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.pdb
