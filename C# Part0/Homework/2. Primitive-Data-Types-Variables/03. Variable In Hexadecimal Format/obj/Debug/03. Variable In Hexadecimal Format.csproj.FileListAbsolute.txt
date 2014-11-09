@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\03. Variable In Hexadecimal Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\03. Variable In Hexadecimal Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\03. Variable In Hexadecimal Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\03. Variable In Hexadecimal Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\03. Variable In Hexadecimal Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.pdb
