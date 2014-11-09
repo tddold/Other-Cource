@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\obj\Debug\09. Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

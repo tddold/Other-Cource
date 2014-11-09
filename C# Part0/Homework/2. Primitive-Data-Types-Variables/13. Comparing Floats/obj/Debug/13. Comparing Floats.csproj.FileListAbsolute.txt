@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

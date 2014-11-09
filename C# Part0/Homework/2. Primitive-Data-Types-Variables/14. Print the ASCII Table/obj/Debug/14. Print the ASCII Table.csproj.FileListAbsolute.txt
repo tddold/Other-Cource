@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\14. Print the ASCII Table\obj\Debug\14. Print the ASCII Table.csprojResolveAssemblyReference.cache
