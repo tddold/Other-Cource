@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\10. Inside Circle-Outside Rectangle\bin\Debug\_10.Inside_Circle_Outside_Rectangle.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\10. Inside Circle-Outside Rectangle\bin\Debug\_10.Inside_Circle_Outside_Rectangle.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\10. Inside Circle-Outside Rectangle\bin\Debug\_10.Inside_Circle_Outside_Rectangle.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\10. Inside Circle-Outside Rectangle\obj\Debug\_10.Inside_Circle_Outside_Rectangle.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\10. Inside Circle-Outside Rectangle\obj\Debug\_10.Inside_Circle_Outside_Rectangle.pdb

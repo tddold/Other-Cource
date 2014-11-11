@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb

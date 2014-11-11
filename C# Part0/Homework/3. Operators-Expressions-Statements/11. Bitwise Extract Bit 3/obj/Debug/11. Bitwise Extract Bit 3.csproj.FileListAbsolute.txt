@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\obj\Debug\14. Modify a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.pdb

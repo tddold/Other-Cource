@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

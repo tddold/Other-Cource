@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\3. Operators-Expressions-Statements\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.pdb
