@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\obj\Debug\04. Number Comparer.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\4. Console-Input-Output-Homework\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb
