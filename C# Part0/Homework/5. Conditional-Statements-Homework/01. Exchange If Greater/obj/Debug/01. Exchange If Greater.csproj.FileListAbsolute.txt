@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\bin\Debug\_01.Exchange_If_Greater.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\obj\Debug\01. Exchange If Greater.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\obj\Debug\_01.Exchange_If_Greater.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\01. Exchange If Greater\obj\Debug\_01.Exchange_If_Greater.pdb
