@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\bin\Debug\_02.Bonus_Score.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\obj\Debug\_02.Bonus_Score.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\obj\Debug\_02.Bonus_Score.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\02. Bonus Score\obj\Debug\02. Bonus Score.csprojResolveAssemblyReference.cache

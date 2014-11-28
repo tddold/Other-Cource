@@ -7,8 +7,8 @@ class ExchangeIfGreater
 {
     static void Main()
     {
-        int a = int.Parse(Console.ReadLine());
-        int b = int.Parse(Console.ReadLine());
+        double a = double.Parse(Console.ReadLine());
+        double b = double.Parse(Console.ReadLine());
 
         if (a > b)
         {
