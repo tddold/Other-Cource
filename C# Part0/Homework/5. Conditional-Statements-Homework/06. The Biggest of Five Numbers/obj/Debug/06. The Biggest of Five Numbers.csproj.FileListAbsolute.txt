@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.pdb

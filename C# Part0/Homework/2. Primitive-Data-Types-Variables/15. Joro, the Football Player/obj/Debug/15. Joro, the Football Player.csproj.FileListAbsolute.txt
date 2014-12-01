@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\obj\Debug\15. Joro, the Football Player.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.pdb

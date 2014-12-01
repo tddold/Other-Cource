@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\08. Digit as Word\bin\Debug\_08.Digit_as_Word.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\08. Digit as Word\obj\Debug\_08.Digit_as_Word.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\08. Digit as Word\obj\Debug\_08.Digit_as_Word.pdb

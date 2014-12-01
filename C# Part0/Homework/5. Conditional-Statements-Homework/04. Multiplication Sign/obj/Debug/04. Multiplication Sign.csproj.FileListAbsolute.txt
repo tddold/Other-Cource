@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\obj\Debug\04. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.pdb

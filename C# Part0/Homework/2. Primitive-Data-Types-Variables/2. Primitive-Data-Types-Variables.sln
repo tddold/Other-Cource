@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Declare Variables", "01. Declare Variables\01. Declare Variables.csproj", "{96E09E0E-34F3-4933-93D2-77EA279E957F}"
 EndProject
@@ -28,6 +28,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Comparing Floats", "13. Comparing Floats\13. Comparing Floats.csproj", "{636A8A66-9EBA-4E14-AABE-46174EF4141F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Print the ASCII Table", "14. Print the ASCII Table\14. Print the ASCII Table.csproj", "{0A88116F-88BC-4A6E-BB8D-E5AE8EEFC1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Joro, the Football Player", "15. Joro, the Football Player\15. Joro, the Football Player.csproj", "{006B665A-8313-448F-A30D-2248FE5E46C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Half Sum", "16. Half Sum\16. Half Sum.csproj", "{426A8756-855D-4C9D-993A-BADE33BCCF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Sunglasses", "17. Sunglasses\17. Sunglasses.csproj", "{02B15917-8D27-4727-BC8D-759423D4C548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Nine-Digit Magic Numbers", "18. Nine-Digit Magic Numbers\18. Nine-Digit Magic Numbers.csproj", "{51F62469-25C0-454D-89E9-BAE0CD91BDF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{0A88116F-88BC-4A6E-BB8D-E5AE8EEFC1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A88116F-88BC-4A6E-BB8D-E5AE8EEFC1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A88116F-88BC-4A6E-BB8D-E5AE8EEFC1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006B665A-8313-448F-A30D-2248FE5E46C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006B665A-8313-448F-A30D-2248FE5E46C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006B665A-8313-448F-A30D-2248FE5E46C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006B665A-8313-448F-A30D-2248FE5E46C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426A8756-855D-4C9D-993A-BADE33BCCF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426A8756-855D-4C9D-993A-BADE33BCCF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426A8756-855D-4C9D-993A-BADE33BCCF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426A8756-855D-4C9D-993A-BADE33BCCF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B15917-8D27-4727-BC8D-759423D4C548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B15917-8D27-4727-BC8D-759423D4C548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B15917-8D27-4727-BC8D-759423D4C548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B15917-8D27-4727-BC8D-759423D4C548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F62469-25C0-454D-89E9-BAE0CD91BDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F62469-25C0-454D-89E9-BAE0CD91BDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F62469-25C0-454D-89E9-BAE0CD91BDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F62469-25C0-454D-89E9-BAE0CD91BDF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

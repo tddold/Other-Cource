@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\09. Play with Int Double and String\obj\Debug\_09.Play_with_Int_Double_and_String.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\09. Play with Int Double and String\obj\Debug\_09.Play_with_Int_Double_and_String.pdb

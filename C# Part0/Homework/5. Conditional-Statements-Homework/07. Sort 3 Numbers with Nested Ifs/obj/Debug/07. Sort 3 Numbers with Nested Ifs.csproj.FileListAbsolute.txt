@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\obj\Debug\07. Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb

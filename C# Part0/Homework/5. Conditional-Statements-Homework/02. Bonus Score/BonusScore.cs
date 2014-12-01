@@ -28,6 +28,5 @@ class BonusScore
             Console.WriteLine("invalid score");
             break;
         }
-
     }
 }

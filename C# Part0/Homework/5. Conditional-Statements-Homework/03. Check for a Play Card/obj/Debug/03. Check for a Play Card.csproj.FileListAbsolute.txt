@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\obj\Debug\03. Check for a Play Card.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\5. Conditional-Statements-Homework\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

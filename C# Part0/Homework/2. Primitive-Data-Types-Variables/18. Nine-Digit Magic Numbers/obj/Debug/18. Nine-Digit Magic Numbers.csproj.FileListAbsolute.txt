@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\obj\Debug\18. Nine-Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\2. Primitive-Data-Types-Variables\18. Nine-Digit Magic Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.pdb
