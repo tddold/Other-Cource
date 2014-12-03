@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\06. Calculate N! division  K!\bin\Debug\_06.Calculate_N__division__K_.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\06. Calculate N! division  K!\bin\Debug\_06.Calculate_N__division__K_.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\06. Calculate N! division  K!\bin\Debug\_06.Calculate_N__division__K_.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\06. Calculate N! division  K!\obj\Debug\_06.Calculate_N__division__K_.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\06. Calculate N! division  K!\obj\Debug\_06.Calculate_N__division__K_.pdb

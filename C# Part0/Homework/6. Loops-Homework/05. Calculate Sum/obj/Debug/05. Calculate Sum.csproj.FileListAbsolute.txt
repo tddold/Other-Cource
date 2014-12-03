@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\05. Calculate Sum\bin\Debug\_05.Calculate_Sum.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\05. Calculate Sum\obj\Debug\_05.Calculate_Sum.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\05. Calculate Sum\obj\Debug\_05.Calculate_Sum.pdb

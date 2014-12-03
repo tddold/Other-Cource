@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\bin\Debug\_07.Calculate_Combination.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\bin\Debug\_07.Calculate_Combination.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\bin\Debug\_07.Calculate_Combination.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\obj\Debug\_07.Calculate_Combination.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\obj\Debug\_07.Calculate_Combination.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\6. Loops-Homework\07. Calculate Combination\obj\Debug\07. Calculate Combination.csprojResolveAssemblyReference.cache

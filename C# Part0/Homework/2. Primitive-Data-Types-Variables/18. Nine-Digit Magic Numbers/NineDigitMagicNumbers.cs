@@ -48,9 +48,9 @@ class NineDigitMagicNumbers
 
                     if (sumSequensNumber == sum)
                     {
-                        if (sumM == diff && sumN == diff && intAbc < intDef && intDef < intGhi)
+                        if (sumM == diff && sumN == diff || intAbc <= intDef ||intDef <= intGhi)
                         {
-                            Console.WriteLine("{0} - {1} = {4,-5} {1} - {2} = {3}", ghi, def, abc, sumM, sumN);
+                            Console.WriteLine("{0} - {1} = {4,-5} {1} - {2} = {3}", intGhi, intDef, intAbc, sumM, sumN);
                         }
                     }
                 }
