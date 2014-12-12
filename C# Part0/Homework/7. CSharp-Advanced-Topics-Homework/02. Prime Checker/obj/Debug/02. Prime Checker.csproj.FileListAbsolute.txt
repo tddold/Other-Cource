@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb

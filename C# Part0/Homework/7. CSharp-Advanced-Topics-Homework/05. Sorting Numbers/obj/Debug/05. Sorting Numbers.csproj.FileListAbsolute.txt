@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\obj\Debug\05. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb
