@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Difference between Date
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sorting Numbers", "05. Sorting Numbers\05. Sorting Numbers.csproj", "{F9E96420-5B2E-4166-9449-4EFD27D81DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Longest Area in Array", "06. Longest Area in Array\06. Longest Area in Array.csproj", "{D92B1E83-CA06-4065-A3A5-4C9A77FB2034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9E96420-5B2E-4166-9449-4EFD27D81DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E96420-5B2E-4166-9449-4EFD27D81DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E96420-5B2E-4166-9449-4EFD27D81DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92B1E83-CA06-4065-A3A5-4C9A77FB2034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92B1E83-CA06-4065-A3A5-4C9A77FB2034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92B1E83-CA06-4065-A3A5-4C9A77FB2034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92B1E83-CA06-4065-A3A5-4C9A77FB2034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
