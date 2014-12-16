@@ -14,48 +14,40 @@ class LongestAreaInArray
         int n = int.Parse(Console.ReadLine());
         string[] array = new string[n];
 
-        int count = 0;
-
         for (int i = 0; i < n; i++)
         {
             array[i] = Console.ReadLine();
         }
 
-        // output
-        //Console.WriteLine(string.Join("\n", array));
-        //return;
-        Console.WriteLine(string.Join("\n", CounterLongestArea(count, array)));
+        // logic
+        int maxElementsCount = 0;
+        int elementIndex = 0;
+        int currentElementCount = 0;
 
-    }
-
-    private static List<string> CounterLongestArea(int count, string[] array)
-    {
-        bool isFalse = false;
-        int countMax = 0;
-        List<string> result = new List<string>();
-        result.Add(array[0]);
-
-       
-            for (int i = 1; i < array.Length; i++)
-            {               
-                if (array[i] == array[i - 1])
-                {                    
-                    result.Add(array[i]);
-                    count++;
-                }
-                else
+        for (int i = 0; i < n; i++)
+        {
+            if (i < n - 1 && array[i] == array[i + 1])
+            {
+                currentElementCount++;
+            }
+            else
+            {
+                if (currentElementCount > maxElementsCount)
                 {
-                    if (countMax < count)
-                    {
-                        countMax = count;
-                        result.RemoveAt(i);
-                    }
-
-                    count = 0;
+                    maxElementsCount = currentElementCount;
+                    elementIndex = i;
                 }
-           }
-        
 
-        return result;
+                currentElementCount = 0;
+            }
+        }
+        maxElementsCount++;
+
+        // print
+        Console.WriteLine(maxElementsCount);
+        for (int i = 0; i < maxElementsCount; i++)
+        {
+            Console.WriteLine(array[elementIndex]);
+        }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\09. Remove Names\bin\Debug\_09.Remove_Names.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\09. Remove Names\bin\Debug\_09.Remove_Names.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\09. Remove Names\bin\Debug\_09.Remove_Names.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\09. Remove Names\obj\Debug\_09.Remove_Names.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\09. Remove Names\obj\Debug\_09.Remove_Names.pdb

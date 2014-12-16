@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\10. Join Lists\bin\Debug\_10.Join_Lists.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\Homework\7. CSharp-Advanced-Topics-Homework\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb
