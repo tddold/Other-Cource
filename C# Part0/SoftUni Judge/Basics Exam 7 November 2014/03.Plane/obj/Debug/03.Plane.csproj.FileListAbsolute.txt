@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\bin\Debug\03.Plane.exe.config
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\bin\Debug\03.Plane.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\bin\Debug\03.Plane.pdb
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\obj\Debug\03.Plane.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\obj\Debug\03.Plane.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 7 November 2014\03.Plane\obj\Debug\03.Plane.pdb
