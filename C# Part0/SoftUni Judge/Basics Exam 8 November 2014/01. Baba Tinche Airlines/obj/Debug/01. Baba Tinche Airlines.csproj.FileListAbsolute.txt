@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\bin\Debug\_01.Baba_Tinche_Airlines.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\obj\Debug\01. Baba Tinche Airlines.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\bin\Debug\_01.Baba_Tinche_Airlines.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\bin\Debug\_01.Baba_Tinche_Airlines.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\obj\Debug\_01.Baba_Tinche_Airlines.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\01. Baba Tinche Airlines\obj\Debug\_01.Baba_Tinche_Airlines.pdb

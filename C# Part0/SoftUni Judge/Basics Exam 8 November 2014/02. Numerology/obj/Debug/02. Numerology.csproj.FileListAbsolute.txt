@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\bin\Debug\_02.Numerology.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\bin\Debug\_02.Numerology.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\bin\Debug\_02.Numerology.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\obj\Debug\02. Numerology.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\obj\Debug\_02.Numerology.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Basics Exam 8 November 2014\02. Numerology\obj\Debug\_02.Numerology.pdb
