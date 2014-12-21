@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\bin\Debug\_03.Boat.exe.config
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\bin\Debug\_03.Boat.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\bin\Debug\_03.Boat.pdb
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\obj\Debug\03. Boat.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\obj\Debug\_03.Boat.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\03. Boat\obj\Debug\_03.Boat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\bin\Debug\_01.Piggy_Bank.exe.config
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\bin\Debug\_01.Piggy_Bank.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\bin\Debug\_01.Piggy_Bank.pdb
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\obj\Debug\01. Piggy Bank.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\obj\Debug\_01.Piggy_Bank.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\01. Piggy Bank\obj\Debug\_01.Piggy_Bank.pdb

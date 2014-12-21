@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\bin\Debug\_05.Bit_Lock.exe.config
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\bin\Debug\_05.Bit_Lock.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\bin\Debug\_05.Bit_Lock.pdb
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\obj\Debug\05. Bit Lock.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\obj\Debug\_05.Bit_Lock.exe
+C:\Users\Todor\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\Exam 19 Dec\05. Bit Lock\obj\Debug\_05.Bit_Lock.pdb

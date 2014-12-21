@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Boat", "03. Boat\03. Boat.csproj", "{1EDE15A9-8F65-47D4-8E45-4644AB4190B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Piggy Bank", "01. Piggy Bank\01. Piggy Bank.csproj", "{4372953B-33D2-4B40-9B96-94413F1D5712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit Lock", "05. Bit Lock\05. Bit Lock.csproj", "{454F2060-B2EB-42A7-A188-62F0EFFD5F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit Lock_01", "05. Bit Lock_01\05. Bit Lock_01.csproj", "{8EC11D62-69C3-4E40-91AC-1B4E217AD1FE}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDE15A9-8F65-47D4-8E45-4644AB4190B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDE15A9-8F65-47D4-8E45-4644AB4190B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDE15A9-8F65-47D4-8E45-4644AB4190B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDE15A9-8F65-47D4-8E45-4644AB4190B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4372953B-33D2-4B40-9B96-94413F1D5712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4372953B-33D2-4B40-9B96-94413F1D5712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4372953B-33D2-4B40-9B96-94413F1D5712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4372953B-33D2-4B40-9B96-94413F1D5712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454F2060-B2EB-42A7-A188-62F0EFFD5F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454F2060-B2EB-42A7-A188-62F0EFFD5F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454F2060-B2EB-42A7-A188-62F0EFFD5F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454F2060-B2EB-42A7-A188-62F0EFFD5F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC11D62-69C3-4E40-91AC-1B4E217AD1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC11D62-69C3-4E40-91AC-1B4E217AD1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC11D62-69C3-4E40-91AC-1B4E217AD1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC11D62-69C3-4E40-91AC-1B4E217AD1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
