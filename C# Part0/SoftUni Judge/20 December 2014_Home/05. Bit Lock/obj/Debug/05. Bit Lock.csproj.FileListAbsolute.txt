@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\20 December 2014_Home\05. Bit Lock\bin\Debug\_05.Bit_Lock.exe.config
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\20 December 2014_Home\05. Bit Lock\bin\Debug\_05.Bit_Lock.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\20 December 2014_Home\05. Bit Lock\bin\Debug\_05.Bit_Lock.pdb
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\20 December 2014_Home\05. Bit Lock\obj\Debug\_05.Bit_Lock.exe
+C:\Users\Tdd\Documents\GitHub\Softuni-Corse-Homework\C# Part0\SoftUni Judge\20 December 2014_Home\05. Bit Lock\obj\Debug\_05.Bit_Lock.pdb

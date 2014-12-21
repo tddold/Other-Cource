@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Piggy Bank", "01. Piggy Bank\01. Piggy Bank.csproj", "{442F7E9E-650C-41A2-98E3-65994B694A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit Lock", "05. Bit Lock\05. Bit Lock.csproj", "{0DE13F83-0B53-4369-B0A3-6DD364E4D17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442F7E9E-650C-41A2-98E3-65994B694A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442F7E9E-650C-41A2-98E3-65994B694A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442F7E9E-650C-41A2-98E3-65994B694A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442F7E9E-650C-41A2-98E3-65994B694A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE13F83-0B53-4369-B0A3-6DD364E4D17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE13F83-0B53-4369-B0A3-6DD364E4D17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE13F83-0B53-4369-B0A3-6DD364E4D17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE13F83-0B53-4369-B0A3-6DD364E4D17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
