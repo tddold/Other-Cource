@@ -24,6 +24,7 @@ namespace _01.Piggy_Bank
             //int countmonth = 0;
 
             double neededMonth = price / average;
+            int result = (int) Math.Ceiling(neededMonth); // this is key
 
             int twoDigitsAfterDots = (int) ((neededMonth / 12) * 100) % 10;
             int firstDigitsAfterDots = (int) ((neededMonth / 12) * 10) % 10;
