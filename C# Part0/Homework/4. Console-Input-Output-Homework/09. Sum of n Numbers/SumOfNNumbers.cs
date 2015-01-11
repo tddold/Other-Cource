@@ -8,10 +8,11 @@ class SumOfNNumbers
     static void Main()
     {
         Console.Title = "Sum of n Numbers";
+		
         Console.WriteLine("Sum of n Numbers!");
         Console.WriteLine(new string('-', 40));
 
-        Console.Write("Enter number of nubers: ");
+        Console.Write("Enter number of numbers: ");
         int cheskNumbers;
         while (!int.TryParse(Console.ReadLine(), out cheskNumbers) || cheskNumbers <= 0)
         {
