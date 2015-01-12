@@ -7,16 +7,16 @@ class TheBiggestOfFiveNumbers
 {
     static void Main()
     {
-        Console.WriteLine("Enter three number:");
+        Console.WriteLine("Enter five number:");
         Console.Write("a --> ");
         double a = double.Parse(Console.ReadLine());
         Console.Write("b --> ");
         double b = double.Parse(Console.ReadLine());
         Console.Write("c --> ");
         double c = double.Parse(Console.ReadLine());
-        Console.Write("c --> ");
+        Console.Write("d --> ");
         double d = double.Parse(Console.ReadLine());
-        Console.Write("c --> ");
+        Console.Write("e --> ");
         double e = double.Parse(Console.ReadLine());
         double biggest = 0;
 

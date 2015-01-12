@@ -8,9 +8,10 @@ class FibonacciNumbers
     static void Main()
     {
         Console.Title = "Fibonacci Numbers";
+		
         Console.WriteLine("Fibonacci Numbers!");
         Console.WriteLine(new string('-', 40));
-        Console.Write("Enter number of Fibunachi siquence: ");
+        Console.Write("Enter number of Fibonacci sequence: ");
         int n;
         while ((!int.TryParse(Console.ReadLine(), out n)) || n < 1)
         {
@@ -21,7 +22,7 @@ class FibonacciNumbers
         int sequencenumber1 = 0;
         int sequenceNumber2 = 1;
 
-        //WHILe metod
+        //WHILE method
         if (n == 1)
         {
             Console.WriteLine(sequencenumber1);
@@ -44,7 +45,7 @@ class FibonacciNumbers
         }
         Console.WriteLine();
 
-        // IF metod
+        // IF method
         sequencenumber1 = 0;
         sequenceNumber2 = 1;
 

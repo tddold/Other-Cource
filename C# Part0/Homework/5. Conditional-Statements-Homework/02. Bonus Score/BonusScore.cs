@@ -4,7 +4,7 @@ class BonusScore
 {
     static void Main()
     {
-        Console.Write("Enter interger number [1-9]: ");
+        Console.Write("Enter integer number [1-9]: ");
         int number = int.Parse(Console.ReadLine());
 
         switch (number)
